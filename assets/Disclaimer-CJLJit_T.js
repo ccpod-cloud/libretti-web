@@ -1,0 +1,1 @@
+import{j as e}from"./index-AECHiWJb.js";import{L as s}from"./LegalDocPage-BuSh0eX6.js";const i=()=>e.jsx(s,{slug:"disclaimer",fallback:e.jsx("div",{className:"min-h-screen bg-background flex items-center justify-center",children:e.jsx("p",{className:"text-muted-foreground",children:"Coming soon"})})});export{i as default};
